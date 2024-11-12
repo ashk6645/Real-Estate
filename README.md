@@ -130,13 +130,11 @@ This project can be deployed on platforms like **Vercel**, **Netlify**, or **Git
 Here are some screenshots showcasing the interface of the real estate website:
 
 ### Home Page
-![Home Page](link_to_homepage_screenshot)
+![Home Page](https://github.com/ashk6645/Real-Estate/blob/master/Home.png?raw=true)
 
 ### Property Listings
-![Property Listings](link_to_property_listings_screenshot)
+![Property Listings](https://github.com/ashk6645/Real-Estate/blob/master/Projects.png?raw=true)
 
-### Contact Form
-![Contact Form](link_to_contact_form_screenshot)
 
 ## Credits
 
