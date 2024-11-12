@@ -142,10 +142,7 @@ Here are some screenshots showcasing the interface of the real estate website:
 - **Framer Motion**: Provides smooth animations and transitions.
 - **npm**: Managed packages for additional functionalities.
 
-## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-```
 
 
 
