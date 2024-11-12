@@ -45,7 +45,7 @@ const About = () => {
                         ))}
                     </div>
                     <p className='max-w-lg text-center md:text-left mb-8'>
-                        At [Your Company Name], we believe in turning ideas into reality. We're dedicated to crafting spaces that inspire and building experiences that resonate. With creativity, precision, and passion, we bring your vision to life—whether it’s a fresh start, a new project, or a lifelong dream.
+                        At Estate, we believe in turning ideas into reality. We're dedicated to crafting spaces that inspire and building experiences that resonate. With creativity, precision, and passion, we bring your vision to life—whether it’s a fresh start, a new project, or a lifelong dream.
                     </p>
                     <button className='bg-blue-600 text-white px-8 py-3 rounded-md transition duration-300 hover:bg-blue-700'>
                         Learn More
