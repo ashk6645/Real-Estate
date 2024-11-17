@@ -12,6 +12,8 @@ Here's a structured `README.md` template for your real estate frontend project w
 ```markdown
 # Real Estate Website
 
+**Live Preview**:https://realestate6645.vercel.app/
+
 A modern and responsive real estate website built using **React** and **Vite**. This project features a dynamic user interface that enhances the user experience with interactive elements powered by **Web3Forms**, **npm packages**, and **Framer Motion** animations. 
 
 ## Table of Contents
