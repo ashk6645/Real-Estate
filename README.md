@@ -6,13 +6,13 @@ Currently, two official plugins are available:
 
 - [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- **Live Preview**:[Live](#https://realestate6645.vercel.app/)
 
 Here's a structured `README.md` template for your real estate frontend project with React and Vite, integrating Web3Forms, npm packages, and Framer for enhanced visuals.
 
 ```markdown
 # Real Estate Website
 
-**Live Preview**:https://realestate6645.vercel.app/
 
 A modern and responsive real estate website built using **React** and **Vite**. This project features a dynamic user interface that enhances the user experience with interactive elements powered by **Web3Forms**, **npm packages**, and **Framer Motion** animations. 
 
