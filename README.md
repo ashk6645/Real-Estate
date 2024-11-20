@@ -60,21 +60,19 @@ To run this project locally, ensure you have the following installed:
 
 - [Node.js](https://nodejs.org/) (v14 or higher)
 - [npm](https://www.npmjs.com/)
+```
 
 ### Installation
 
 1. Clone the repository:
    ```bash
    git clone https://github.com/ashk6645/Real-Estate.git
-   
-2. Navigate to the project folder:
-   ```bash
+
+3. Navigate to the project folder:
    cd real-estate-website
    
-3. Install dependencies:
-   ```bash
+4. Install dependencies:
    npm install
-   ```
 
 ### Running the Project
 
