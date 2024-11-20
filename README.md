@@ -66,11 +66,11 @@ To run this project locally, ensure you have the following installed:
 1. Clone the repository:
    ```bash
    git clone https://github.com/ashk6645/Real-Estate.git
-   ```
+   
 2. Navigate to the project folder:
    ```bash
    cd real-estate-website
-   ```
+   
 3. Install dependencies:
    ```bash
    npm install
