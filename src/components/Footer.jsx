@@ -42,7 +42,7 @@ const Footer = () => {
       
       {/* Footer Bottom */}
       <div className="border-t border-gray-700 py-4 mt-10 text-center text-gray-500">
-        &copy; 2024 Ashutosh. All Rights Reserved.
+        &copy; 2025 Ashutosh. All Rights Reserved.
       </div>
     </div>
   );
