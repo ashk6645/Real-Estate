@@ -15,7 +15,7 @@ const navbar = () => {
     return () => {
       document.body.style.overflow = 'auto'
     };
-  },[showMobilemenu])
+  },[showMobilemenu]) 
 
   return (
     <div className="absolute top-0 left-0 w-full z-10">
